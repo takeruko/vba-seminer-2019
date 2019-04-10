@@ -1,2 +1,2 @@
 # vba-semminer-2019
-Contents of VBA Semminer 2019 for begginers.
+プログラミング同好会 Excelマクロで学ぶVBA入門 学習コンテンツ置き場
